@@ -8,6 +8,14 @@ const projects = [
   github: ""
 },
   {
+  title: "CNN Handwritten Digit Recognition",
+  description: "A machine learning project for recognizing handwritten digits using a Perceptron, Artificial Neural Network (ANN), and Convolutional Neural Network (CNN). The project includes image preprocessing, model training, evaluation, and real-time digit prediction from uploaded images.",
+  technologies: ["Python", "Machine Learning", "Deep Learning", "OpenCV", "TensorFlow", "Keras"],
+  url: "https://github.com/kiran24cs-bit/AI-CNN-DIGIT-RECOGNITION",
+  github: "https://github.com/kiran24cs-bit/AI-CNN-DIGIT-RECOGNITION"
+}
+,
+  {
     title: "My Timetable AI",
     description: "An AI-powered study planning tool that generates a personalized weekly timetable based on your subjects and free hours.",
     image: "images/project1.jpg",
