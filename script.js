@@ -24,6 +24,25 @@ const projects = [
     github: "https://github.com/kiran24cs-bit/AI-study-planner"
   },
   {
+  title: "AI Movie Recommendation System",
+  description: "An AI-powered movie recommendation system that uses Natural Language Processing (NLP) and machine learning to recommend movies based on user preferences and movie descriptions.",
+  technologies: [
+    "Python",
+    "Artificial Intelligence",
+    "Natural Language Processing (NLP)",
+    "Machine Learning",
+    "Scikit-learn",
+    "NLTK",
+    "React",
+    "JavaScript",
+    "HTML",
+    "CSS",
+    "Tailwind CSS"
+  ],
+  url: "https://github.com/kiran24cs-bit/AI-Movie-Recommendation-System-using-NLP",
+  github: "https://github.com/kiran24cs-bit/AI-Movie-Recommendation-System-using-NLP"
+},
+  {
     title: "Library Management System",
     description: "A full-stack system with student and manager logins, book borrow/return tracking, and a live dashboard with usage stats.",
     // image: "images/project2.jpg",
