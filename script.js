@@ -1,6 +1,13 @@
 
 const projects = [
   {
+  title: "AI Multimodal Public Speaking Assistant",
+  description: "An AI-powered public speaking assistant that analyzes presentation videos using audio and visual analysis to evaluate speaking performance. The system extracts speech transcripts, detects filler words and pauses, measures speaking pace and pitch variations, and evaluates non-verbal communication such as eye contact, posture, and gestures. It provides detailed feedback, identifies areas for improvement, and helps users track their public speaking progress over time.",
+  technologies: ["Python", "Artificial Intelligence", "Machine Learning", "Deep Learning", "Computer Vision", "Natural Language Processing (NLP)", "Speech Recognition", "OpenCV", "MediaPipe", "React", "JavaScript", "Flask"],
+  url: "https://github.com/kiran24cs-bit/AI-Multimodal-Public-Speaking-Assistant.git",
+  github: "https://github.com/kiran24cs-bit/AI-Multimodal-Public-Speaking-Assistant.git"
+},
+  {
   title: "AI-Powered Women Safety (Ongoing)",
   description: "An AI-powered women safety system designed to detect potential emergency situations and provide quick assistance through intelligent alerts and safety features.",
   technologies: ["Python", "AI", "Machine Learning", "Computer Vision", "JavaScript", "Node.js"],
